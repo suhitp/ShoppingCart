@@ -2,7 +2,7 @@
 //  CartItem+CoreDataProperties.m
 //  ShoppingCart
 //
-//  Created by Suhit P on 08/11/15.
+//  Created by Suhit P on 27/01/16.
 //  Copyright © 2015 Suhit. All rights reserved.
 //
 //  Choose "Create NSManagedObject Subclass…" from the Core Data editor menu
